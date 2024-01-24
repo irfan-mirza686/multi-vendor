@@ -1,0 +1,186 @@
+body {
+    font-family: "Open Sans", Helvetica, sans-serif
+}
+
+a:active,
+a:focus,
+a:hover {
+    color: #222222
+}
+
+.btn-custom {
+    background-color: #222222;
+    border-color: #222222
+}
+
+.btn-block {
+    background-color: #222222
+}
+
+.btn-outline {
+    border: 1px solid #222222;
+    color: #222222
+}
+
+.btn-outline:hover {
+    background-color: #222222 !important
+}
+
+.btn-filter-products-mobile {
+    border: 1px solid #222222;
+    background-color: #222222
+}
+
+.form-control:focus {
+    border-color: #222222
+}
+
+.link {
+    color: #222222 !important
+}
+
+.link-color {
+    color: #222222
+}
+
+.top-search-bar .btn-search {
+    background-color: #222222
+}
+
+.nav-top .nav-top-right .nav li a:active,
+.nav-top .nav-top-right .nav li a:focus,
+.nav-top .nav-top-right .nav li a:hover {
+    color: #222222
+}
+
+.nav-top .nav-top-right .nav li .btn-sell-now {
+    background-color: #222222 !important
+}
+
+.nav-main .navbar>.navbar-nav>.nav-item:hover .nav-link:before {
+    background-color: #222222
+}
+
+.li-favorites a i {
+    color: #222222
+}
+
+.product-share ul li a:hover {
+    color: #222222
+}
+
+.pricing-card:after {
+    background-color: #222222
+}
+
+.selected-card {
+    -webkit-box-shadow: 0 3px 0 0 #222222;
+    box-shadow: 0 3px 0 0 #222222
+}
+
+.selected-card .btn-pricing-button {
+    background-color: #222222
+}
+
+.profile-buttons .social ul li a:hover {
+    background-color: #222222;
+    border-color: #222222
+}
+
+.btn-product-promote {
+    background-color: #222222
+}
+
+.contact-social ul li a:hover {
+    background-color: #222222;
+    border-color: #222222
+}
+
+.price-slider .ui-slider-horizontal .ui-slider-handle {
+    background: #222222
+}
+
+.price-slider .ui-slider-range {
+    background: #222222
+}
+
+.p-social-media a:hover {
+    color: #222222
+}
+
+.blog-content .blog-categories .active a {
+    background-color: #222222
+}
+
+.nav-payout-accounts .active,
+.nav-payout-accounts .show>.nav-link {
+    background-color: #222222 !important
+}
+
+.pagination .active a {
+    border: 1px solid #222222 !important;
+    background-color: #222222 !important
+}
+
+.pagination li a:active,
+.pagination li a:focus,
+.pagination li a:hover {
+    background-color: #222222;
+    border: 1px solid #222222
+}
+
+.spinner>div {
+    background-color: #222222
+}
+
+::selection {
+    background: #222222 !important
+}
+
+::-moz-selection {
+    background: #222222 !important
+}
+
+.cookies-warning a {
+    color: #222222
+}
+
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before {
+    background-color: #222222
+}
+
+.custom-control-input:checked~.custom-control-label::before {
+    border-color: #222222;
+    background-color: #222222
+}
+
+.custom-control-variation .custom-control-input:checked~.custom-control-label {
+    border-color: #222222 !important
+}
+
+.btn-wishlist .icon-heart {
+    color: #222222
+}
+
+.product-item-options .item-option .icon-heart {
+    color: #222222
+}
+
+.mobile-language-options li .selected,
+.mobile-language-options li a:hover {
+    color: #222222;
+    border: 1px solid #222222
+}
+
+.mega-menu .link-view-all,
+.link-add-new-shipping-option {
+    color: #222222 !important;
+}
+
+.mega-menu .menu-subcategories ul li .link-view-all:hover {
+    border-color: #222222 !important
+}
+
+.custom-select:focus {
+    border-color: #222222
+}
